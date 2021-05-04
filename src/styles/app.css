@@ -1,0 +1,27 @@
+.header-logo-wrapper{
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.db-cat-image{
+    width: 25px;
+    height: 25px;
+}
+
+.db-cat-image ion-img{
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+/* List */
+.list-item-image{
+    width: 40px;
+    height: 40px;
+}
+
+/* form */
+.form-input{
+    background: #eee;
+}
